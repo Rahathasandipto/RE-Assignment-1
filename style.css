@@ -1,0 +1,322 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.first-sec {
+    height: 550px;
+    background-image: url(images/donation6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.first-all-content {
+    text-align: center;
+
+}
+
+.first-content {
+    padding-top: 200px;
+    color: white;
+
+}
+
+.first-content h1 {
+    font-size: 50px;
+    padding-top: 1px;
+
+}
+
+.first-content p {
+    font-size: 18px;
+    padding-top: 3px;
+}
+
+.first-content button {
+    margin-top: 40px;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightcoral;
+}
+
+
+
+
+
+.second-sec {
+    height: 430px;
+    width: 100%;
+}
+
+.second-all-content {
+    text-align: center;
+
+}
+
+.second-content {
+    padding-top: 70px;
+}
+
+.second-content h1 {
+    font-size: 40px;
+    padding-bottom: 10px;
+
+}
+
+.second-content p {
+    font-size: 18px;
+}
+
+ul {
+    padding-top: 50px;
+}
+
+ul li {
+    display: inline;
+    padding: 15px;
+    color: black;
+    border: none;
+    margin: 10px;
+}
+
+li {
+    font-size: 25px;
+}
+
+#li-tk {
+    border: 5px solid yellow;
+    background-color: #c07dff;
+    border-radius: 4px;
+}
+
+.second-content input {
+    margin-top: 50px;
+    background-color: none;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 50px;
+}
+
+.second-content button {
+    margin-top: 32px;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: lightcoral;
+}
+
+
+.third-sec {
+    height: 540px;
+    width: 100%;
+
+}
+
+.third-all-content {
+    text-align: center;
+}
+
+.third-content {
+    padding-top: 80px;
+}
+
+.third-content h1 {
+    font-size: 40px;
+    color: black;
+    padding-bottom: 2px;
+}
+
+.third-content p {
+    font-size: 18px;
+    color: black;
+}
+
+
+.container {
+
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+.all-div {
+    margin-top: 85px;
+}
+
+.div-Food {
+    float: left;
+    display: inline;
+    width: 250px;
+    height: 270px;
+    border: none;
+    border-radius: 10px;
+    background-color: #7a777c;
+}
+
+.div-Shelter {
+    display: inline-block;
+    width: 250px;
+    height: 270px;
+    border: none;
+    border-radius: 10px;
+    background-color: #a1d7a1;
+}
+
+.div-Education {
+    float: right;
+    display: inline;
+    width: 250px;
+    height: 270px;
+    border: none;
+    border-radius: 10px;
+    background-color: #a3a3f1;
+}
+
+.Food-content {
+    text-align: left;
+    padding: 20px;
+}
+
+.Food-content h3 {
+    padding-top: 30px;
+}
+
+.Food-content p {
+    padding-top: 10px;
+}
+
+.Shelter-content {
+    text-align: left;
+    padding: 20px;
+}
+
+.Shelter-content h3 {
+    padding-top: 30px;
+}
+
+.Shelter-content p {
+    padding-top: 10px;
+}
+
+.Education-content {
+    text-align: left;
+    padding: 20px;
+}
+
+.Education-content h3 {
+    padding-top: 30px;
+}
+
+.Education-content p {
+    padding-top: 10px;
+}
+
+
+
+
+
+.container {
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+
+.four-sec {
+    height: 418px;
+    width: 100%;
+
+}
+
+.four-all-part {
+    display: flex;
+    padding-top: 60px;
+}
+
+.part-one-content {
+    padding-left: 30px;
+}
+
+.part-one {
+    width: 50%;
+}
+
+.part-one h1 {
+    font-size: 40px;
+}
+
+.part-one p {
+    padding-top: 10px;
+}
+
+.part-one button {
+    margin-top: 40px;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(129 233 26);
+}
+
+/* Here is start part two */
+.part-two {
+    padding-left: 30px;
+    width: 50%;
+}
+
+
+
+
+.six-sec {
+    width: 100%;
+    height: 300px;
+}
+
+.six-all-content {}
+
+.six-content {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.container-x {
+    margin-left: 65px;
+    margin-right: 65px;
+    text-align: center;
+}
+
+.div-color {
+    height: 80px;
+    margin-top: 50px;
+    width: 350px;
+    background-color: black;
+    padding-top: 30px;
+    margin-left: 265px;
+    border-radius: 30px;
+}
+
+.mail-box {
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+
+
+
+footer {
+    background-color: #c07dff;
+    text-align: center;
+}
+
+footer h1 {
+    font-size: 60px;
+}
+
+footer p {
+    font-size: xx-large;
+}
